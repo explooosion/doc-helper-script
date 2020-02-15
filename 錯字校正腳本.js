@@ -48,6 +48,7 @@ javascript:
     /** 結語敬語 */
     { source: '請察照', target: '請查照' },
     { source: '翔如說明', target: '詳如說明' },
+    { source: '祥如說明', target: '詳如說明' },
     { source: '建核', target: '鑒核' },
     { source: '請建和', target: '請鑒核' },
     { source: '穢語', target: '惠予' },
