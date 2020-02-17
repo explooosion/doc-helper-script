@@ -63,6 +63,8 @@ javascript:
     { source: '敬請合適', target: '敬請核示' },
     { source: '請何處惠復', target: '請核處惠覆' },
     { source: '建富', target: '見復' },
+    { source: '會與', target: '惠予' },
+    { source: '會語', target: '惠予' },
 
     /** 徵集 */
 
